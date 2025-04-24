@@ -1,0 +1,2 @@
+title: ""        # empty title removes the repo‑name link
+header_pages: [] # prevents other pages from appearing in the navbar
